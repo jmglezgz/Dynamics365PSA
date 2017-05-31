@@ -44,7 +44,7 @@ namespace PSA.Time
         {
             get
             {
-                return "7f2902aa-5881-45af-bbc4-5b9796641600";
+                return "2b6b741a-c1d5-4ae3-aaf2-964c1078c4d1";
             }
         }
 
@@ -52,7 +52,7 @@ namespace PSA.Time
         {
             get
             {
-                return "https://*.crm.dynamics.com";
+                return "https://*.crm4.dynamics.com";
             }
         }
     }
